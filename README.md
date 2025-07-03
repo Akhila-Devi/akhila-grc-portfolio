@@ -7,7 +7,7 @@ This page includes project work demonstrating my understanding of real-world sec
 
 ## 📄 Projects
 
-### [InfoSecurityPolicy.pdf] 
+### (InfoSecurity-Policy/InfoSecurityPolicy.pdf)
 A policy document outlining data protection, access control, roles, and incident response – based on ISO 27001/NIST.
 
 ### [RiskAssessmentReport.pdf]  
