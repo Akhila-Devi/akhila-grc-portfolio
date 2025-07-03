@@ -4,10 +4,9 @@ Welcome to my Governance, Risk, and Compliance (GRC) Cybersecurity Portfolio.
 This page includes project work demonstrating my understanding of real-world security frameworks, policies, and compliance.
 
 ---
-
 ## 📄 Projects
 
-### (InfoSecurity-Policy/InfoSecurityPolicy.pdf)
+###[main](InfoSecurity-Policy/InfoSecurityPolicy.pdf)
 A policy document outlining data protection, access control, roles, and incident response – based on ISO 27001/NIST.
 
 ### [RiskAssessmentReport.pdf]  
